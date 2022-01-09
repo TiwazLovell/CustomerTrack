@@ -1,5 +1,5 @@
 # CustomerTrack
-  This application is a Spring MVC and Hibernate application that conncts to a databse and performs all the CRUD operations. 
+  This application is a Spring MVC and Hibernate application that connects to a database and performs all the CRUD operations. 
   
   
 ## 1)Technologies/Libraries used
@@ -20,6 +20,7 @@
   
   
 ## 3) Screens
+  Main page:
 ![Main page](/screens/customer-tracker-1.PNG)
 
   Adding a new customer:
